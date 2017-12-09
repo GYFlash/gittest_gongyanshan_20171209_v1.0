@@ -1,0 +1,1 @@
+(function(){document.getElementById("title").innerHTML = "This is Git test project.";})();
